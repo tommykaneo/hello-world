@@ -1,4 +1,4 @@
 # hello-world
 First repo created
 
-a bit about yourself
+Actuarial Science Graduate with an interest in going into the Big Data landscape.
